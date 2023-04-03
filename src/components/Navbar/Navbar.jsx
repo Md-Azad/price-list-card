@@ -34,7 +34,7 @@ const Navbar = () => {
   ];
   return (
     <nav>
-      <div onClick={() => setOpen(!open)}>
+      <div onClick={() => setOpen(!open)} className="md:hidden">
         <span>
           {open ? (
             <XMarkIcon className="h-6 w-6 text-purple-500" />
