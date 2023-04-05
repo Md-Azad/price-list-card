@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "basic",
+    "features": ["Access to basic features", "Limited support"],
+    "price": 80
+  },
+  {
+    "id": 2,
+    "type": "advance",
+    "features": ["Access to advance features", "Priority support"],
+    "price": 120
+  },
+  {
+    "id": 3,
+    "type": "premium",
+    "features": ["Access to all features", "24/7 support"],
+    "price": 180
+  }
+]
